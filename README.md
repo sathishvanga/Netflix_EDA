@@ -9,7 +9,7 @@ In this data there is 8807 observations containg 12 variables.
 The aim of Exploratory Data Analysis (EDA) is to visually and statistically explore a dataset, uncovering patterns, relationships, and anomalies to inform subsequent analysis and decision-making.
 <br>
 Following question has been answered in this EDA.
-* [Average marks of a student in all 3 subjects.](#avg)
+* [What is the total number of movies and TV shows in the dataset?](#avg)
 * [Which student got the highest marks in total?](#high)
 * [which student got the lowest marks in total?](#low)
 * [What is the average score of students in each subjects?](#sub)
