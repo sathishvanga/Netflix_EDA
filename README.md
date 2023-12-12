@@ -27,6 +27,6 @@ Following question has been answered in this EDA.
 * [Does Male and Female comes form same population in terms of total scores?](#hy2)
 ---
 ### What is the total number of movies and TV shows in the dataset?<a class="anchor" id="avg"></a>
-![1](![image](https://github.com/sathishvanga/Netflix_EDA/assets/92833519/552f52e4-bdfe-4c8b-9aa0-13aa3308016f)
-)
+![1](https://github.com/sathishvanga/Netflix_EDA/assets/92833519/552f52e4-bdfe-4c8b-9aa0-13aa3308016f)
+
 <br>
