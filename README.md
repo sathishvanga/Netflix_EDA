@@ -30,14 +30,17 @@ Following question has been answered in this EDA.
 ![1](https://github.com/sathishvanga/Netflix_EDA/assets/92833519/552f52e4-bdfe-4c8b-9aa0-13aa3308016f)
 
 <br>
+
 ### Which years have the highest number of releases on Netflix?<a class="anchor" id="high"></a>
 ![2](https://github.com/sathishvanga/Netflix_EDA/assets/92833519/66cd85a4-5deb-46a4-8780-5bce76a51842)
 
+<br>
+
 ### Top 5 Netflix Countries<a class="anchor" id="low"></a>
-!(https://github.com/sathishvanga/Netflix_EDA/assets/92833519/54c0e337-2b24-4e59-b742-7371378e9242)
+![3](https://github.com/sathishvanga/Netflix_EDA/assets/92833519/54c0e337-2b24-4e59-b742-7371378e9242)
 
 ### What is the average score of students in each subjects?<a class="anchor" id="sub"></a>
-![5](https://user-images.githubusercontent.com/90683408/145673917-9f39705b-2b27-4711-9e41-e9ed2de767df.png)
+
 <br>
 ![6](https://user-images.githubusercontent.com/90683408/145673950-e21ac110-addd-4ac0-a76b-57f29eee01e2.png)
 - As we can see the reading and writing score mean ad median are quite similar, having mean of 69 for reading and 68 for writing and For median reading got 70 and writing 69. In the math scores both mean and median are bit low in comparison to other 2 subjects, having 66 for both mean and median.
